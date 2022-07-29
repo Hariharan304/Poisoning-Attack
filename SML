@@ -1,0 +1,3 @@
+https://towardsdatascience.com/poisoning-attacks-on-machine-learning-1ff247c254db
+https://arxiv.org/pdf/1804.00308.pdf
+http://pages.cs.wisc.edu/~jerryzhu/machineteaching/pub/Mei2015Machine.pdf
